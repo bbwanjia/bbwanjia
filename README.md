@@ -14,6 +14,9 @@ You can call me **bbwanjia** or follows:
 - *Don Chee* or *Liu Don Chee*
 - Tex Master
 
+## Pronouns
+He. His. Him.
+
 # Interest and specialties
 - $\LaTeX$. I wrote a simple program to create TEX file more easily. See [createx](https://github.com/bbwanjia/createx).
 - Algebra. Abstract and linear. Though limited knowledge.
