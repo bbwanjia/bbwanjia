@@ -5,9 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Welcome to [*bbwanjia*](https://github.com/bbwanjia/bbwanjia/)'s home page!
 
-I am currently a grade eleven student in Shanghai, on my Advanced Level studies.
-
-I prefer the major of Mathematics in my university.
+I am currently a grade 13 student in Shanghai, on my Advanced Level studies.
 
 # Other addresses
 You can call me **bbwanjia** or follows:
@@ -32,6 +30,5 @@ I used [lazyvim](https://www.lazyvim.org/) as a nvim distribution for working.
 # Main projects
 - my repo: [createx](https://github.com/bbwanjia/createx)
 - as contributor: [cpc](https://github.com/iewnfod/CAIE_Code)
-
 
 [![bbwanjia's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbwanjia)](https://github.com/bbwanjia/github-readme-stats)
